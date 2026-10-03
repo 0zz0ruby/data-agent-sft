@@ -10,6 +10,11 @@
 - Model archive hash matches the server backup manifest:
   `1d710e23cfa810d86f9c7716f6d24221716851f5518188c85aac692751570597`.
 - Three downstream calculation/narrative workflows pass 25 regression assertions.
+- Final trainer masking tests pass: assistant-only labels, multiple turns and
+  target-preserving truncation.
+- The archived final checkpoint loads locally with Transformers 5.17.0 and
+  CPU PyTorch 2.10.0; deterministic one-token generation completes successfully.
+  This is an inference integrity check, not an answer-quality evaluation.
 
 ## Recorded training evidence
 

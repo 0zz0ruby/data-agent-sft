@@ -1,0 +1,21 @@
+{
+  "Profit Leak": {
+    "target_category": "Home Decor",
+    "target_margin": 0.25105455029345686,
+    "portfolio_margin": 0.3036032404499014,
+    "margin_gap_pp": 5.254869015644453,
+    "estimated_profit_leakage": 7104.159366708642
+  },
+  "Marketing Efficiency": {
+    "target_entity": "TikTok Ads",
+    "target_profit_per_ad_pound": 1.1902406097985119,
+    "target_roas": 5.838078757690536,
+    "target_profit_per_order": 4.320036657115568
+  },
+  "Inventory Risk": {
+    "target_entity": "84879",
+    "target_units": 8259,
+    "target_orders": 181,
+    "target_transaction_lines": 182
+  }
+}

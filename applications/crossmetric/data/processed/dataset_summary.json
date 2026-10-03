@@ -1,0 +1,35 @@
+{
+  "seed": 20261002,
+  "source": "UCI Online Retail II",
+  "doi": "10.24432/C5CG6D",
+  "license": "CC BY 4.0",
+  "rows": 65000,
+  "orders": 24225,
+  "products": 4106,
+  "countries": 43,
+  "date_min": "2009-12-01 09:06:00",
+  "date_max": "2011-12-09 12:20:00",
+  "observed_net_revenue_gbp": 1198668.49,
+  "sim_contribution_profit_gbp": 363919.64,
+  "return_line_rate": 0.018338,
+  "observed_fields": [
+    "invoice_id",
+    "sku",
+    "description",
+    "quantity",
+    "invoice_timestamp",
+    "unit_price_gbp",
+    "customer_id",
+    "country"
+  ],
+  "simulated_fields": [
+    "channel",
+    "sim_unit_cost_gbp",
+    "sim_allocated_ad_spend_gbp",
+    "sim_platform_fee_gbp",
+    "sim_fulfilment_cost_gbp",
+    "sim_contribution_profit_gbp",
+    "inventory attributes",
+    "ad clicks and impressions"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "provenance": "Recorded run; not rerun during cleanup",
+  "base_model": "Qwen3.5-0.8B",
+  "learning_rate": 0.00002,
+  "max_length": 2048,
+  "epochs": 1,
+  "optimizer_steps": 1475,
+  "baseline_validation_loss": 0.731607,
+  "final_validation_loss": 0.488760,
+  "final_training_loss": 0.504752,
+  "task_success_rate": null,
+  "load_test_completed": false
+}

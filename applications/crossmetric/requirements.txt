@@ -1,0 +1,13 @@
+gradio>=5.0,<7
+numpy>=1.26
+pandas>=2.2
+plotly>=5.20
+torch>=2.4
+transformers>=4.48
+accelerate>=1.0
+safetensors>=0.4
+jinja2>=3.1.5
+scikit-learn>=1.4
+ray[train]>=2.40
+requests>=2.31
+openpyxl>=3.1

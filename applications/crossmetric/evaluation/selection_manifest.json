@@ -1,0 +1,19 @@
+{
+  "provenance": "Sanitized summary of recorded manifest",
+  "source_count": 11707,
+  "exact_duplicates_removed": 207,
+  "after_exact_deduplication": 11500,
+  "near_duplicates_removed": 199,
+  "after_near_deduplication": 11301,
+  "selected_count": 2500,
+  "train_size": 2000,
+  "validation_size": 500,
+  "seed": 42,
+  "max_per_group": 6,
+  "near_duplicate_threshold": 0.93,
+  "glm_limit": 0,
+  "learned_reward_model_used": false,
+  "group_overlap_count": 0,
+  "id_overlap_count": 0,
+  "message_hash_overlap_count": 0
+}

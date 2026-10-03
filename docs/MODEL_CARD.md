@@ -1,3 +1,15 @@
+---
+base_model: Qwen/Qwen3.5-0.8B
+library_name: transformers
+language:
+- en
+- zh
+tags:
+- fine-tuned
+- data-analysis
+- supervised-fine-tuning
+---
+
 # DataAgent-SFT model card
 
 Base: Qwen3.5-0.8B. Text-backbone supervised fine-tuning without LoRA; unused
